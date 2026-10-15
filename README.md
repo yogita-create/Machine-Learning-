@@ -1,10 +1,7 @@
 # Machine Learning Practicals & Lab Work
-
 This repository contains practical implementations, assignments, and experiments executed in Google Colab.
 
----
-
-## 📌 Repository Overview
+📌 Repository Overview
 
 This collection covers practical coursework focusing on data preprocessing, model implementation, and performance evaluation.
 
