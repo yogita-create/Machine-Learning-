@@ -2,7 +2,6 @@
 This repository contains practical implementations, assignments, and experiments executed in Google Colab.
 
 📌 Repository Overview
-
 This collection covers practical coursework focusing on data preprocessing, model implementation, and performance evaluation.
 
 | Practical No. | Title / Experiment Description | Notebook Link |
@@ -14,17 +13,8 @@ This collection covers practical coursework focusing on data preprocessing, mode
 | **05** | *[e.g., Model Evaluation: Confusion Matrix, ROC-AUC]* | `notebook_05.ipynb` |
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 - **Environment:** Google Colab / Jupyter Notebook
 - **Language:** Python 3.x
 - **Key Libraries:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-
----
-
-## 🚀 How to Run
-
-1. Click on any `.ipynb` file in this repository.
-2. Click the **"Open in Colab"** badge at the top of the notebook (or download and run locally in Jupyter).
-3. Run the cells sequentially (`Shift` + `Enter`).
