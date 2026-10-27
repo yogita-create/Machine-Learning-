@@ -10,7 +10,6 @@ This collection covers practical coursework focusing on data preprocessing, mode
 | **02** | *[e.g., Linear & Logistic Regression Implementation]* | `notebook_02.ipynb` |
 | **03** | *[e.g., Classification using Decision Trees / Random Forest]* | `notebook_03.ipynb` |
 | **04** | *[e.g., Clustering using K-Means]* | `notebook_04.ipynb` |
-| **05** | *[e.g., Model Evaluation: Confusion Matrix, ROC-AUC]* | `notebook_05.ipynb` |
 
 ---
 ## 🛠️ Tech Stack & Tools
