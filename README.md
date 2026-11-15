@@ -11,8 +11,9 @@ This collection covers practical coursework focusing on data preprocessing, mode
 | **03** | *[e.g., Classification using Decision Trees / Random Forest]* | `notebook_03.ipynb` |
 | **04** | *[e.g., Clustering using K-Means]* | `notebook_04.ipynb` |
 
----
+
 ## 🛠️ Tech Stack & Tools
+
 
 - **Environment:** Google Colab / Jupyter Notebook
 - **Language:** Python 3.x
