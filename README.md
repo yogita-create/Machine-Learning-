@@ -46,8 +46,6 @@ Each folder has:
 - Matplotlib
 - Scikit-learn
 
-(Remove the ones you don't use.)
-
 ## How to Run
 
 ### Option 1: Google Colab (recommended)
@@ -85,6 +83,3 @@ Original licenses are kept inside the respective folders.
 ## Author
 **Yogita**
 - GitHub: [@yogita-create](https://github.com/yogita-create)
-
-## License
-This repo follows the license of the original projects. See the `LICENSE` file inside each folder, if present.
