@@ -13,7 +13,6 @@ A collection of Machine Learning practicals, with each practical in its own fold
 
 ## Project Structure
 
-```
 Machine-Learning-/
 ├── practical1/
 │   ├── ML1.ipynb
@@ -24,7 +23,7 @@ Machine-Learning-/
 ├── practical3/
 │   └── ...
 └── README.md
-```
+
 
 Each folder has:
 - a Jupyter notebook (`.ipynb`) with the code
